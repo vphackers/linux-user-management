@@ -16,5 +16,7 @@ A simple Bash script to automate:
 ## Usage
 
 ```bash
-chmod +x user_mgmt.sh
-sudo ./user_mgmt.sh
+chmod +x managementofuser.sh
+
+sudo ./managementofuser.sh
+
